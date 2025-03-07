@@ -25,14 +25,6 @@ max-width: 350px;
 text-align: center;
 }
 
-.about-cats {
-    border: 2px solid #007b7f;
-    padding: 15px; 
-    margin: 15px; 
-    border-radius: 10px; 
-    max-width: 1000px;
-}
-
 .gallery-item p {
   color: darkgreen;  
 }
